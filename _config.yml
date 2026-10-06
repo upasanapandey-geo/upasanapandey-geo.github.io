@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Upasana Pandey, PhD"  #"Your Sidebar Name"
+  pronouns         : "she/her" # example: "she/her"  
+  bio              : "Subsurface Energy Technologies | Underground Thermal Energy Storage | Resilient Underground Energy Storage for AI infrastructure" #"Short biography for the left-hand sidebar"
+  location         :  "Champaign, Illinois" #"Earth"
+  employer         : "Prairie Research Institute, University of Illinois Urbana-Champaign" #"Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
 

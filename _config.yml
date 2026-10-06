@@ -28,7 +28,7 @@ author:
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Subsurface Energy Technologies | Underground Thermal Energy Storage | Resilient Underground Energy Storage for AI infrastructure" #"Short biography for the left-hand sidebar"
   location         :  "Champaign, Illinois" #"Earth"
-  employer         : "Prairie Research Institute, University of Illinois Urbana-Champaign" #"Red Brick University"
+  employer         : #"Prairie Research Institute, University of Illinois Urbana-Champaign" #"Red Brick University"
   uri              : # URL
   email            : "upandey@illinois.edu" #"none@example.org" 
 
